@@ -3,4 +3,4 @@
 
 这是哲神教程的一个demo,原教程地址：[https://gold.xitu.io/post/583d1fe00ce463006baca2fa?utm_source=gold_browser_extension](https://gold.xitu.io/post/583d1fe00ce463006baca2fa?utm_source=gold_browser_extension)
 # 最终实现的效果
-![最终效果](https://dn-myg6wstv.qbox.me/e879911de696b3140a54.png)
+![最终效果](http://123.206.204.163:2333/media/vue-demo-1.png)
